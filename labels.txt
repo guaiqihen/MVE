@@ -1,5 +1,0 @@
-DBLP: Database, Data Mining, Artificial Intelligent, and Computer Vision.
-
-M10: Agriculture, Archaeology, Biology, Computer Science, Financial Economics, Industrial Engineering, Material Science, Petroleum Chemistry, Physics, and Social Science.
-
-Cora: Rule Learning, Neural Networks, Case Based, Genetic Algorithms, Theory, Reinforcement Learning, and Probabilistic Method
